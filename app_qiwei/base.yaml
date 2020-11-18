@@ -1,0 +1,11 @@
+caps:
+  platformName: "android"
+  deviceName: "hogwarts"
+  automationName: 'UiAutomator1'
+  appPackage: "com.tencent.wework"
+  appActivity: ".launch.WwMainActivity"
+  noReset: "true"
+
+server:
+  ip: "localhost"
+  port: "4723"
